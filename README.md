@@ -74,12 +74,19 @@ This model allows the AI system to reason about the best dress style based on th
 
 Effective knowledge representation is crucial for AI systems to reason, learn, and make decisions. The exploration of different forms of knowledge representation, such as semantic networks, frames, and ontologies, reveals their importance in structuring information for AI applications. The case study of AI in fashion design exemplifies how these concepts can be applied in unique fields, showcasing the versatility and potential of AI in transforming industries. Through this activity, the significance of knowledge representation in enhancing AI capabilities has been clearly demonstrated.
 
-Citations:
-[1] https://alltechmagazine.com/top-5-unusual-applications-of-ai-you-must-know/
-[2] https://thinkml.ai/top-10-rare-unique-applications-artificial-intelligence/
-[3] https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/artificial-intelligence-applications
-[4] https://www.techtarget.com/searchenterpriseai/tip/9-top-applications-of-artificial-intelligence-in-business
-[5] https://builtin.com/artificial-intelligence/examples-ai-in-industry
-[6] https://ginimachine.com/blog/fields-that-use-artificial-intelligence/
-[7] https://www.coursera.org/articles/generative-ai-applications
-[8] https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/
+References
+ https://alltechmagazine.com/top-5-unusual-applications-of-ai-you-must-know/
+ 
+ https://thinkml.ai/top-10-rare-unique-applications-artificial-intelligence/
+ 
+ https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/artificial-intelligence-applications
+ 
+ https://www.techtarget.com/searchenterpriseai/tip/9-top-applications-of-artificial-intelligence-in-business
+ 
+ https://builtin.com/artificial-intelligence/examples-ai-in-industry
+ 
+ https://ginimachine.com/blog/fields-that-use-artificial-intelligence/
+ 
+ https://www.coursera.org/articles/generative-ai-applications
+ 
+ https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/
